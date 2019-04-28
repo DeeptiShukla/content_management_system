@@ -68,5 +68,6 @@ class SectionsController < ApplicationController
     @section_count = Section.count
     if params[:action] == 'new' || params[:action] == 'create'
       @section_count += 1
+    end
   end
 end
