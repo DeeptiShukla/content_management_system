@@ -1,6 +1,6 @@
 # README
 
-This is a simple content management system designed in Ruby on Rails.
+This is a simple content management system implemented in Ruby on Rails.
 
 It consists of three main entities - Subject, Page & Section.
 
